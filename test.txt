@@ -1,7 +1,7 @@
 to jest na lokalny repo
 
-nowa linia w master
 
 
-def new_function(x, y):
-    print(x)
+
+def new_function(x, z):
+    print(x + z)
