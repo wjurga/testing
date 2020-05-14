@@ -1,1 +1,3 @@
 to jest na lokalny repo
+
+nowa linia w master
