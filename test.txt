@@ -3,5 +3,5 @@ to jest na lokalny repo
 
 
 
-def new_function(x, z):
-    print(x + z)
+def new_function(x, z, c):
+    print(x + z + c)
